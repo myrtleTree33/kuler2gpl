@@ -38,6 +38,6 @@ Currently, only swatches utilizing the RGB color space are supported.  LAB color
 File on the bug tracker.
 
 
-
 **License** : MIT
+
 **Author** : <a href="blog.joeltong.org">jhtong</a>
