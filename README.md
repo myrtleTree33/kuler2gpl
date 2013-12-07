@@ -40,4 +40,4 @@ File on the bug tracker.
 
 **License** : MIT
 
-**Author** : <a href="blog.joeltong.org">jhtong</a>
+**Author** : <a href="http://blog.joeltong.org">jhtong</a>
