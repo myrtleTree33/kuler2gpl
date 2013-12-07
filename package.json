@@ -1,0 +1,13 @@
+{
+  "name": "kuler2gpl",
+  "version": "0.0.0",
+  "description": "Converts Kuler ASE files to GIMP / Inkscape GPL color palette files.",
+  "license": "MIT",
+  "author": "",
+  "repository": "",
+  "dependencies": {
+    "grunt-bump": "0.0.11",
+    "q" : "0.9.7",
+    "convert-hex" : "0.1.0"
+  }
+}
