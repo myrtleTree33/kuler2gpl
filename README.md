@@ -1,7 +1,7 @@
 Kuler2gpl
 ===========
 
-<img src = './doc/hero-compressed.jpeg' />
+<img src = 'https://github.com/toiletfreak/kuler2gpl/blob/master/doc/hero-compressed.jpeg' />
 
 ## What is it?
 
