@@ -1,6 +1,8 @@
 Kuler2gpl
 ===========
 
+<img src = './doc/hero-compressed.jpeg' />
+
 ## What is it?
 
 Converts Adobe Kuler ASE Color swatches to the GIMP / Inkscape GPL format.

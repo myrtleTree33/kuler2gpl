@@ -22,7 +22,8 @@
     "convert-hex" : "latest",
     "walker" : "latest",
     "iconv" : "latest",
-    "commander" : "latest"
+    "commander" : "latest",
+    "ansi" : "latest"
   },
   "bin": {
     "kuler2gpl": "./bin/main.js"
